@@ -12,3 +12,11 @@
 ## BBDO
 [https://github.com/BBDO](https://github.com/BBDO)
 
+## Proximity BBDO
+[https://github.com/proximitybbdo](https://github.com/proximitybbdo)
+
+## Sancho BBDO
+[https://github.com/proximitybbdo](https://github.com/proximitybbdo)
+
+## Proximity BBDO France
+[https://github.com/proximitybbdofrance](https://github.com/proximitybbdofrance)

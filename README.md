@@ -33,6 +33,7 @@
 - [sapient-global](https://github.com/sapient-global) - Sapient Interactive
 - [vml](https://github.com/vml) - VML
 - [huge](https://github.com/hugeinc) - Huge
+- [edenspiekermann](https://github.com/edenspiekermann) - edenspiekermann
 
 ## New York City
 

@@ -32,6 +32,7 @@
 - [razorfish](https://github.com/razorfish) - Razorfish
 - [sapient-global](https://github.com/sapient-global) - Sapient Interactive
 - [vml](https://github.com/vml) - VML
+- [huge](https://github.com/hugeinc) - Huge
 
 ## New York City
 
